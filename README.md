@@ -2,7 +2,7 @@
 
 ## Studente di Informatica  
 
-##Linguaggi:
+Linguaggi:
 -HTML
 -CSS
 -C in apprendimento
