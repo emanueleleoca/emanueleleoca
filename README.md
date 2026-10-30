@@ -3,6 +3,6 @@
 ## Studente di Informatica  
 
 Linguaggi:
--HTML
--CSS
--C in apprendimento
+- HTML
+- CSS
+- C in apprendimento
