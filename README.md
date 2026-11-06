@@ -3,9 +3,6 @@
 Sono uno studente di Informatica e questo è l'inizio
 del mio portfolio tecnico.
 
-## 👤 Qualcosa su di me
-
-Sono uno studente di informatica del Torriani 
 
 ## ❤️ Le mie passioni
 
