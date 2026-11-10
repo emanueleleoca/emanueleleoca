@@ -1,22 +1,44 @@
-# Ciao! 👋
+# 👋 Hey, sono Emanuele!
 
-Sono uno studente di Informatica e questo è l'inizio
-del mio portfolio tecnico.
+### 💻 Studente di Informatica |
 
+Studente della **3BINF dell'Istituto Tecnico Torriani**, appassionato di informatica, tecnologia e videogiochi.
 
-## ❤️ Le mie passioni
+---
 
-- Tennis
-- Videogiochi
+## 🧑‍💻 About Me
 
-## 💻 Tecnologia ed esperienze
+- 🎓 Studente di Informatica
+- 🌱 Attualmente sto imparando C
+- 🌐 Conoscenze di HTML e CSS
+- 📄 Utilizzo del pacchetto LibreOffice
+- 🎮 Appassionato di videogiochi
+- 🎾 Appassionato di tennis
 
-Ho già avuto occasione di utilizzare o conoscere:
+## 🛠️ Tecnologie 
 
-- HTML
-- CSS
-- C in apprendimento
+| Linguaggio / Software | Conoscenze |
+|:---|:---|
+| C | 🌱 In apprendimento |
+| HTML | 📚 Base |
+| CSS | 📚 Base |
+| LibreOffice | 📚 Utilizzo scolastico |
 
-## 🔍 Cosa mi piacerebbe imparare
+## 🚀 Obiettivi e progetti futuri
 
-Vorrei programmare un videogioco
+- 🎮 Creare un videogioco da zero
+- 💻 Migliorare le mie competenze in C
+- 🌐 Approfondire lo sviluppo web
+- 🚀 Realizzare nuovi progetti personali
+
+## 🎯 Interessi
+
+- 🎾 Tennis
+- 🎮 Gaming
+- 💻 Programmazione
+
+## 📚 Al momento...
+
+Attualmente sto approfondendo il linguaggio **C** e migliorando le mie conoscenze nel mondo della programmazione.
+
+---
